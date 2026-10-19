@@ -4,6 +4,8 @@
 
 **Add the economic calendar to Google Calendar in one click.** This project publishes free, auto-updating `.ics` calendar feeds of the events that move markets — **FOMC meetings & Fed rate decisions, CPI release dates, Nonfarm Payrolls (NFP), PCE, GDP, central bank decisions, high-impact forex news and bank holidays** — and hosts them on GitHub Pages so anyone can subscribe from Google Calendar, Apple Calendar (iPhone/Mac) or Outlook.
 
+**🔗 Live subscribe page: https://belnaruto.github.io/economic-calendar-ics/**
+
 Data comes from the Investing.com economic calendar via the **[Economic Calendar Data (Investing.com) Apify Actor](https://apify.com/pintostudio/economic-calendar-data-investing-com)**.
 
 - ✅ Times shown in **your own time zone** (feeds are in UTC, calendars convert automatically)
